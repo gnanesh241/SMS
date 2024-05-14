@@ -50,7 +50,7 @@ class StudentWithId{
                 '}';
     }
 }
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://sms-kappa-sand.vercel.app/")
 @RestController
 public class AttendanceController {
 
